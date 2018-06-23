@@ -6,7 +6,7 @@ public class Assisgnment3 {
 		// TODO Auto-generated method stub
 
 		int age = 18;
-		if (age <= 16) {
+		if (age < 16) {
 			System.out.println("You acn't drive. Age is " + age);
 		} else if (age >= 16 || age <= 17) {
 			System.out.println("You can drive but not vote. Age is " + age);
