@@ -1,4 +1,4 @@
-package Session4;
+package Session4.student;
 
 public class StudentMain {
 

@@ -1,4 +1,4 @@
-package Session4;
+package Session4.circle;
 
 public class Circle {
 
@@ -8,7 +8,7 @@ public class Circle {
 	double calArea() {
 		double area = pi * this.r * this.r; // this keyword refers to radius r in the class
 		return area;
-
+ 
 	}
 
 	double perimeter() {
